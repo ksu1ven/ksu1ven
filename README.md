@@ -1,4 +1,4 @@
-    Frontend (React) developer with 1 year experience in:
+Frontend (React) developer with 1 year experience in:
 📄 landing pages
 💻 online stores
 🎮 simple games
